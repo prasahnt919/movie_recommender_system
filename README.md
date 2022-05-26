@@ -14,5 +14,11 @@ Sklearn
 # System Flow Diagram
 ![my4](https://user-images.githubusercontent.com/80889801/170462931-9dbc99de-8590-42cb-90d8-db22441a548b.png)
 
+# The WebApp
+![webapp1](https://user-images.githubusercontent.com/80889801/170466575-8bae6d92-34aa-4641-86bd-2fdd0ddb3325.png)
+
+![webapp2](https://user-images.githubusercontent.com/80889801/170466692-01995d00-c042-48c0-90c8-53f8f39b97d6.png)
+
 # Developer
+
 Prashant Agrawal
